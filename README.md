@@ -3,7 +3,7 @@ Sample Bar with a button on the middle
 
 This is just a example with a react native, with a button on middle of a bar top.
 
-Images about code:
+Images about App:
 -------------
 
 <p align="center">
